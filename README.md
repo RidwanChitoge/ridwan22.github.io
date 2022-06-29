@@ -1,5 +1,5 @@
 # README #
 
-Source Code Aplikasi Stok dan Penjualan Barang
+Source Code Aplikasi Stokopname
 
-By [Kang Jaz](https://kangjaz.com)
+By [Kang Jaz](https://ridwanchitoge.com)
